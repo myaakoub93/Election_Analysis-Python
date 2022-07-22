@@ -9,11 +9,17 @@ Below is an image showing the results for the election followed by a few summary
 
 <img src="https://github.com/myaakoub93/Election_Analysis-Python/blob/main/Final%20Election%20Results.png" width="430" height="500" />   
 
-1. **_How many votes were cast in this congressional election?_** <br /> The total number of votes that were cast in this congressional election were: 369,711
-2. **_Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct._** <br /> As you can tell by the image above, the highest turnout was in Denver by a long shot with over 80% (306,055 of 369,711) of the votes coming out from there. Jefferson and Arapahoe both had very little turnout compared to Denver with each of them accounting for only only 10.5% and 6.7% respectively of all votes.
-3. **_Which county had the largest number of votes?_** <br /> As mentioned Denver had the largest number of votes with over 80% (306,055 of 369,711) of them coming from here.
-4. **_Provide a breakdown of the number of votes and the percentage of the total votes each candidate received._** <br /> Funny enough, similar to the county voting results there was a similar disparity in the results between the competition. With 73% of the votes going to Diana DeGette, she won the election with the popular vote total of 272,892 votes. She was followed by Charles Casper Stockham with 23% of the popular vote and Raymon Anthony Doane coming in last with a dissapointing 3.1% of the votes.
-5. **_Which candidate won the election, what was their vote count, and what was their percentage of the total votes?_** <br /> With 73% of the votes going to Diana DeGette, she won the election with the a popular vote total of 272,892 votes. 
+Using the data provided for the congressional election in Colorado there were three candidates:
+
+Charles Casper Stockham
+Diana DeGette
+Raymon Anthony Doane The overall winner is Diana Degette. As shown below she had the majority of the votes (73.8%)
+
+There were a total of three counties:
+
+Jefferson
+Denever
+Arapahoe The total voters from the three counties were 369,711 votes with Denver having the largest turnout (82.8% of voters). Below is a breakdown of the total number of voters by county.
 
 ## Election-Audit Summary
 The PyPoll code is built to be used for any election audit. However we need to consider the following:
